@@ -13,3 +13,5 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=TailwindCSS&logoColor=white"/></a>
+</p>
