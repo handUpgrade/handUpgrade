@@ -4,6 +4,7 @@
 <h3 align = "center"> 🏫 About Me 🏫 </h3>
 <p align = "center"> Student </p>
 <p align = "center"> Korean </p>
+https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom
 
 
 <h3 align = "center">📊 Language or Tools 📊 </h3>
